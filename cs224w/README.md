@@ -1,5 +1,13 @@
 # TOC
 
+# Note taking 
+
+Template
+
+- TOC section
+  - Title serves as one line summary of the contents
+- summary section
+- add picture border to differentiate the slides & bullet points notes
 
 
 # Course Project links
