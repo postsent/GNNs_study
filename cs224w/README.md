@@ -1,7 +1,6 @@
 # CS224w
 
-<img src="https://img.shields.io/badge/Lecs-8 / 19 -green" alt="Read"/>
-<img src="https://img.shields.io/badge/Lab-0 / 5 -green" alt="Read"/>
+<img src="https://img.shields.io/badge/Lecs-8 / 19 -green" alt="Read"/> <img src="https://img.shields.io/badge/Lab-0 / 5 -green" alt="Read"/>
 
 
 # Note taking 
@@ -12,6 +11,11 @@ Template
   - Title serves as one line summary of the contents
 - summary section
 - add picture border to differentiate the slides & bullet points notes
+
+# Reference
+
+- How Powerful are Graph Neural Networks?
+- 
 
 
 # Course Project links
