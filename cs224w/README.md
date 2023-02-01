@@ -1,6 +1,6 @@
 # CS224w
 
-<img src="https://img.shields.io/badge/Lecs-8 / 19 -green" alt="Read"/> <img src="https://img.shields.io/badge/Lab-0 / 5 -green" alt="Read"/>
+<img src="https://img.shields.io/badge/Lecs-9 / 19 -green" alt="Read"/> <img src="https://img.shields.io/badge/Lab-0 / 5 -green" alt="Read"/>
 
 
 # Note taking 
