@@ -1,6 +1,6 @@
 # CS224w
 
-<img src="https://img.shields.io/badge/Lecs-9 / 19 -green" alt="Read"/> <img src="https://img.shields.io/badge/Lab-0 / 5 -green" alt="Read"/>
+<img src="https://img.shields.io/badge/Lecs-10 / 19 -green" alt="Read"/> <img src="https://img.shields.io/badge/Lab-0 / 5 -green" alt="Read"/>
 
 
 # Note taking 
@@ -14,8 +14,12 @@ Template
 
 # Reference
 
-- How Powerful are Graph Neural Networks?
-- 
+- Lec 9
+  - How Powerful are Graph Neural Networks?
+- Lec 10
+  - Bordes, et al., Translating embeddings for modeling multi-relational data, NeurIPS 2013.
+  - Lin, et al., Learning entity and relation embeddings for knowledge graph completion, AAAI 2015  
+  - ComplEx - Trouillon et al, Complex Embeddings for Simple Link Prediction, ICML 2016
 
 
 # Course Project links
